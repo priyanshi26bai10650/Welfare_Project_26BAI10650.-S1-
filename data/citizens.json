@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Dia Gautam",
+        "Age": 20,
+        "Income": 0.0,
+        "Disability": "yes",
+        "Student": "yes"
+    },
+    {
+        "Name": "Rani",
+        "Age": 45,
+        "Income": 0.0,
+        "Disability": "no",
+        "Student": "no"
+    }
+]
